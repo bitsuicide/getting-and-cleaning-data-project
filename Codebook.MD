@@ -22,17 +22,17 @@ For each record in the dataset it is provided:
 * Its activity label. 
 * An identifier of the subject who carried out the experiment.
 
-## Cleaning process
+### Cleaning process
 
-### Step 1. Merge the training and the test sets to create one data set.
+* Step 1. Merge the training and the test sets to create one data set.
 
-### Step 2. Extract only the measurements on the mean and standard deviation for each measurement. 
+* Step 2. Extract only the measurements on the mean and standard deviation for each measurement. 
 
-### Step 3. Use descriptive activity names to name the activities in the data set
+* Step 3. Use descriptive activity names to name the activities in the data set
 
-### Step 4. Appropriately label the data set with descriptive activity names.
+* Step 4. Appropriately label the data set with descriptive activity names.
 
-### Step 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject. 
+* Step 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 ## License
 
